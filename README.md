@@ -52,7 +52,8 @@ Supports both:
 (Add your screenshots inside `/public/screenshots/`)
 
 ## 🧑‍💻 Author
-**Naman Singh**
+**Ramanpreet singh**
 
-## 📄 License
-MIT License
+##  live website
+https://carsprediction.lovable.app
+
