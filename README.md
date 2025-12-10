@@ -55,5 +55,5 @@ Supports both:
 **Ramanpreet singh**
 
 ##  live website
-https://carsprediction.lovable.app
+https://prediction-of-cars.vercel.app/
 
